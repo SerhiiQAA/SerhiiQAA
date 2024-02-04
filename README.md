@@ -23,13 +23,7 @@ ___
 🌱 I’m currently learning JS/TS
 👯 I’m looking to collaborate on automation testing projects
 🤔 I’m looking for help with job offer
-📫 How to reach me: [Linkidln](https://www.linkedin.com/in/serhiiqaengineer/), [Telegram](@serhiiqa)
+📫 How to reach me: [Linkidln](https://www.linkedin.com/in/serhiiqaengineer/)
 ⚡ Fun fact: I play the piano
-
-<!--
-**SerhiiQAA/SerhiiQAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+___
 ***✨Thank you for your attention and I wish you success!✨***
--->
