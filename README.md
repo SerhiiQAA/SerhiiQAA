@@ -22,7 +22,7 @@ ___
 - 🤔 I’m looking for help with calculating the feasibility of test automation
 - ⚡ Fun fact: I play the piano
 ___
-I will be glad to cooperate in the field of QA.
+## I will be glad to cooperate in the field of QA.
 - 📫 How to reach me: [Linkidln](https://www.linkedin.com/in/serhiiqaengineer/)
 
 ### ✨Thank you for your attention and I wish you success!✨
