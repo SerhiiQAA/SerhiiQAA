@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am a QA engineer
+## I am a QA engineer, Team lead
 - 🔭 I’m currently working on volunteering projects
 - 🌱 I’m currently learning JS, Cypress, Playwright etc
 - 👯 I’m looking to collaborate on automation testing projects
