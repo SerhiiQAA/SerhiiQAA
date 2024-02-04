@@ -24,5 +24,5 @@ ___
 ___
 I will be glad to cooperate in the field of QA.
 - 📫 How to reach me: [Linkidln](https://www.linkedin.com/in/serhiiqaengineer/)
-__
+
 ### ✨Thank you for your attention and I wish you success!✨
