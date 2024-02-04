@@ -2,9 +2,9 @@
 
 ## I am a QA engineer
 ___
-### I like to be involved in creating quality products that improve the world around us. The testing process reminds me of what a coach does when training an athlete. The more attention you pay to this process, the better the end result will be.
+#### I like to be involved in creating quality products that improve the world around us. The testing process reminds me of what a coach does when training an athlete. The more attention you pay to this process, the better the end result will be.
 
-### I am currently involved in several interesting projects, two of which I am a Team Lead of the QA team. I do everything for comfortable and productive work.
+#### I am currently involved in several interesting projects, two of which I am a Team Lead of the QA team. I do everything for comfortable and productive work.
 ___
 ### Main responsibilities:
 - Establishing communication in the QA team;
