@@ -20,8 +20,11 @@ ___
 ### I will be glad to cooperate in the field of QA.
 
 🔭 I’m currently working on voulontering projects
+_
 🌱 I’m currently learning JS/TS
+_
 👯 I’m looking to collaborate on automation testing projects
+_
 🤔 I’m looking for help with job offer
 📫 How to reach me: [Linkidln](https://www.linkedin.com/in/serhiiqaengineer/)
 ⚡ Fun fact: I play the piano
