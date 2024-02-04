@@ -2,11 +2,11 @@
 
 ## I am a QA engineer
 ___
-#### I like to be involved in creating quality products that improve the world around us. The testing process reminds me of what a coach does when training an athlete. The more attention you pay to this process, the better the end result will be.
+I like to be involved in creating quality products that improve the world around us. The testing process reminds me of what a coach does when training an athlete. The more attention you pay to this process, the better the end result will be.
 
-#### I am currently involved in several interesting projects, two of which I am a Team Lead of the QA team. I do everything for comfortable and productive work.
+I am currently involved in several interesting projects, two of which I am a Team Lead of the QA team. I do everything for comfortable and productive work.
 ___
-### Main responsibilities:
+### At the moment, I am focused on the following responsibilities:
 - Establishing communication in the QA team;
 - Establishing communication with development, design, product managers, and customer teams;
 - Analysis of technical specifications and requirements, communication on proposals;
@@ -17,13 +17,13 @@ ___
 - General reporting on the work;
 - Continuous analysis and improvement of the QA team's work at each stage.
 ___
-
-🔭 I’m currently working on voulontering projects
-🌱 I’m currently learning JS/TS
-👯 I’m looking to collaborate on automation testing projects
-🤔 I’m looking for help with job offer
-📫 How to reach me: [Linkidln](https://www.linkedin.com/in/serhiiqaengineer/)
-⚡ Fun fact: I play the piano
+### Recently, I have been actively developing in the direction of test automation. 
+- 🔭 I’m currently working on volunteering projects
+- 🌱 I’m currently learning JS, Cypress, Playwright etc
+- 👯 I’m looking to collaborate on automation testing projects
+- 🤔 I’m looking for help with calculating the feasibility of test automation
+- 📫 How to reach me: [Linkidln](https://www.linkedin.com/in/serhiiqaengineer/)
+- ⚡ Fun fact: I play the piano
 ___
-### I will be glad to cooperate in the field of QA.
-***✨Thank you for your attention and I wish you success!✨***
+I will be glad to cooperate in the field of QA.
+### ✨Thank you for your attention and I wish you success!✨
