@@ -20,8 +20,9 @@ ___
 - 🌱 I’m currently learning JS, Cypress, Playwright etc
 - 👯 I’m looking to collaborate on automation testing projects
 - 🤔 I’m looking for help with calculating the feasibility of test automation
-- 📫 How to reach me: [Linkidln](https://www.linkedin.com/in/serhiiqaengineer/)
 - ⚡ Fun fact: I play the piano
 ___
 I will be glad to cooperate in the field of QA.
+- 📫 How to reach me: [Linkidln](https://www.linkedin.com/in/serhiiqaengineer/)
+__
 ### ✨Thank you for your attention and I wish you success!✨
