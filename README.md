@@ -16,6 +16,8 @@ ___
 - Analysis of technical specifications and requirements, communication on proposals;
 - Development of test documentation (Test Plan, User Story, Checklist, Test Case, Bug report);
 - Setting up the test environment;
+- Planning test automation on a project;
+- Writing autotests for the frontend and backend of the application;
 - Testing of the application - smoke, functional, security, API, load, regression (logging of bug reports);
 - Control of bug fixes;
 - General reporting on the work;
