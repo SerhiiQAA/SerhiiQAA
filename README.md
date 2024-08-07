@@ -1,10 +1,7 @@
 ![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/0_x2xCaLL7YyfKKdlv.png)
-
 ### Hi there 👋
 ## I am Automation QA Engineer
-
 ![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/giphy-11.gif)
-
 - 🔭 I have 4 completed volunteer projects;
 - 🌱 I develop knowledge in such tools as Cypress and Playwright;
 - 👯 I’m looking to collaborate on automation testing projects;
