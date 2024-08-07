@@ -3,7 +3,6 @@
 ### Hi there 👋
 ## I am Automation QA Engineer
 ![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/giphy-11.gif)
-<img src="https://github.com/SerhiiQAA/SerhiiQAA/blob/main/giphy-11.gif" alt="Image alt" />
 
 - 🔭 I have 4 completed volunteer projects;
 - 🌱 I develop knowledge in such tools as Cypress and Playwright;
