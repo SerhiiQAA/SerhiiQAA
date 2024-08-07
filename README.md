@@ -1,4 +1,4 @@
-![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/0_x2xCaLL7YyfKKdlv.png)
+
 ### Hi there 👋
 ## I am Automation QA Engineer
 ![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/giphy-11.gif)
@@ -14,4 +14,6 @@ ___
 ### I will be glad to cooperate in the field of QA.
 - 📫 How to reach me: [Linkidln](https://www.linkedin.com/in/serhiiqaengineer/)
 
+![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/image_461d661da4.png)
+![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/0_x2xCaLL7YyfKKdlv.png)
 ### ✨Thank you for your attention! I wish you success!✨
