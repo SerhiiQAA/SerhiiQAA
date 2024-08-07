@@ -1,4 +1,4 @@
-![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/newQAfunny.jpg)
+![Image alt]((https://github.com/SerhiiQAA/SerhiiQAA/blob/main/0_x2xCaLL7YyfKKdlv.png)
 
 ### Hi there 👋
 ## I am Automation QA Engineer
