@@ -3,7 +3,7 @@
 ### Hi there 👋
 ## I am Automation QA Engineer
 
-![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/giphy-11.gif)
+![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/giphy-11.gif?raw=true)
 
 ![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/undefined%20-%20Imgur.gif)
 
