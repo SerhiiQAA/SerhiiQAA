@@ -4,7 +4,7 @@
 ![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/giphy-11.gif)
 -  I have 4+ completed volunteer projects;
 -  I develop knowledge in such tools as Cypress and Playwright;
--  I’m looking to collaborate on automation testing projects;
+-  I’m looking to collaborate on testing projects;
 ___
 I like to be involved in creating quality products that improve the world around us. The testing process reminds me of what a coach does when training an athlete. The more attention you pay to this process, the better the end result will be.
 ___
