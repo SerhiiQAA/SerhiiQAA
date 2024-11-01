@@ -13,5 +13,5 @@ ___
 ![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/image_461d661da4.png)
 ![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/0_x2xCaLL7YyfKKdlv.png)
 ________
-### P.S.
+### P.S.:
 ![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/MadeByHumans.png)
