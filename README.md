@@ -14,4 +14,4 @@ ___
 ![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/0_x2xCaLL7YyfKKdlv.png)
 
 ### P.S.
-![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/Made by humans.png)
+![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/Made-by-humans.png)
