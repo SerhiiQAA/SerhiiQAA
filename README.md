@@ -1,7 +1,6 @@
 
 ### Hi there 👋
-### I am Automation QA Engineer
-![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/giphy-11.gif)
+### I am QA Engineer
 ![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/TestPlay.apng)
 -  I have more than 2 years of active development in the field of testing;
 -  I’m looking to collaborate on testing projects;
