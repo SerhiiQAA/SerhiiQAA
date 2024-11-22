@@ -15,4 +15,4 @@ ___
 ________
 ### P.S.:
 ![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/MadeByHumans.png)
-![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/SpaceTesla.gif)
+![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/SpaceMan1.apng)
