@@ -20,7 +20,6 @@ ___
 #### 🔹 My: [Linkidln](https://www.linkedin.com/in/serhiiqaengineer/)
 
 ![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/image_461d661da4.png)
-![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/0_x2xCaLL7YyfKKdlv.png)
 ________
 ### P.S.:
 ![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/MadeByHumans.png)
