@@ -6,14 +6,13 @@
 -  I’m looking to collaborate on testing projects;
 ___
 ### My skills:
-=====================================================================================
-Manual / Automation testing
-Cypress / Playwright / JMeter / Postman
-Smoke / Sanity / Regression
-OOP / BDD
-UI/UX / API
-Windows / Linux
-=====================================================================================
+- Manual / Automation testing
+- Smoke / Sanity / Regression
+- JavaScript / Python
+- Cypress / Playwright / JMeter / Postman
+- OOP / BDD
+- UI/UX / API
+- Windows / Linux
 ___
 I like to be involved in creating quality products that improve the world around us. The testing process reminds me of what a coach does when training an athlete. The more attention you pay to this process, the better the end result will be.
 ___
