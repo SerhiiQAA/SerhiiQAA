@@ -3,13 +3,15 @@
 ### I am QA Engineer
 ![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/TestPlay.apng)
 -  I have more than 2 years of active development in the field of testing;
+-  I have cool completed volunteer projects, where I went through the full development cycle from getting acquainted with customer requirements to the product release;
+-  I have experience in managing a team of testers in the role of a Team Lead;
 -  I’m looking to collaborate on testing projects;
 ___
 ### My skills:
 - Manual / Automation testing
 - Smoke / Sanity / Regression
-- JavaScript / Python
-- Cypress / Playwright / JMeter / Postman
+- JavaScript / Python / Java(basic)
+- Selenium / Cypress / Playwright / JMeter / Postman
 - OOP / BDD
 - UI/UX / API
 - Windows / Linux
