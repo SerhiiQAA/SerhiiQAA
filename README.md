@@ -1,6 +1,6 @@
 
-### Hi there 👋
-### I am QA Engineer
+## Hi there 👋
+## I am QA Engineer
 ![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/TestPlay.apng)
 -  I have more than 2 years of active development in the field of testing;
 -  I have cool completed volunteer projects, where I went through the full development cycle from getting acquainted with customer requirements to the product release;
