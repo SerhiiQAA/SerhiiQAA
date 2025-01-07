@@ -13,8 +13,8 @@ ___
 - JavaScript / Python / Java(basic)
 - Selenium / Cypress / Playwright / JMeter / Postman
 - OOP / BDD
-- UI/UX / API
-- Windows / Linux
+- Api / UI
+- Windows / Linux / VirtualBox
 ___
 I like to be involved in creating quality products that improve the world around us. The testing process reminds me of what a coach does when training an athlete. The more attention you pay to this process, the better the end result will be.
 ___
