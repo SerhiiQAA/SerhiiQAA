@@ -9,11 +9,12 @@
 ___
 ### My skills:
 - Manual / Automation testing
+- API / UI
+- Test plan / Check list / Test case / Bug report
 - Smoke / Sanity / Regression
 - JavaScript / Python / Java(basic)
-- Selenium / Cypress / Playwright / JMeter / Postman
+- Selenium / Cypress / Playwright / Postman
 - OOP / BDD
-- Api / UI
 - Windows / Linux / VirtualBox
 ___
 I like to be involved in creating quality products that improve the world around us. The testing process reminds me of what a coach does when training an athlete. The more attention you pay to this process, the better the end result will be.
