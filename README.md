@@ -25,5 +25,4 @@ ___
 ![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/image_461d661da4.png)
 ________
 ### P.S.:
-![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/MadeByHumans.png)
 ![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/SpaceMan1.apng)
