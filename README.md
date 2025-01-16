@@ -9,7 +9,7 @@ ___
 ### My skills:
 - Manual / Automation testing
 - API / UI
-- Test plan / Check list / Test case / Bug report
+- Test plan / Check list / Test case / Bug report / RTM
 - Smoke / Sanity / Regression
 - JavaScript / Python / Java(basic)
 - Selenium / Cypress / Playwright / Postman
