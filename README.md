@@ -7,12 +7,13 @@
 -  I have experience in managing a team of testers in the role of a Team Lead;
 ___
 ### My skills:
-- Manual / Automation testing
+- Automation / Manual testing
 - API / UI
 - Test plan / Check list / Test case / Bug report / RTM
 - Smoke / Sanity / Regression
-- JavaScript / Python / Java(basic)
+- JavaScript / Python / Java
 - Selenium / Cypress / Playwright / Postman
+- Artillery / K6
 - OOP / BDD
 - Windows / Linux / VirtualBox
 ______
