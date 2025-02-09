@@ -11,7 +11,7 @@ ___
 - API / UI
 - Test plan / Check list / Test case / Bug report / RTM
 - Smoke / Sanity / Regression
-- JavaScript / Python / Java
+- JS / TS / Python / Java
 - Selenium / Cypress / Playwright / Postman
 - Artillery / K6
 - OOP / BDD
