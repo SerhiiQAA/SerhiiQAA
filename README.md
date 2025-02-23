@@ -12,7 +12,7 @@ ___
 - Test plan / Check list / Test case / Bug report / RTM
 - Smoke / Sanity / Regression
 - JS / TS / Python / Java
-- Selenium / WebdriverIO / Cypress / Playwright / Postman
+- Selenium / WebdriverIO / Cypress / Playwright / Karate / Postman
 - Artillery / K6
 - OOP / BDD
 - Windows / Linux / VirtualBox
