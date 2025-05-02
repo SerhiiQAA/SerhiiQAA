@@ -1,6 +1,8 @@
 
 #### Hi there 👋
-#### I am QA Engineer
+#### I am a QA Engineer with three years of active experience in the field of testing. During this time, I worked on several exciting volunteer projects, where I went through the entire development cycle: from getting to know the requirements of customers to releasing the finished product. I also had the opportunity to play the role of Team Lead, where I managed a team of testers, which allowed me to gain valuable experience in managing people and processes. I am always striving for improvement and looking for new challenges to bring value to the team and clients
+
+Translated with DeepL.com (free version)
 ![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/TestPlay.apng)
 -  I have 3 years of active development in the field of testing
 -  I have cool completed volunteer projects, where I went through the full development cycle from getting acquainted with customer requirements to the product release
