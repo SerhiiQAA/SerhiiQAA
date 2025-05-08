@@ -8,7 +8,7 @@ ___
 - API / UI
 - Smoke / Sanity / Regression
 - JS / TS / Python / Java
-- Playwright / WebdriverIO / Cypress / Selenium / Postman
+- Playwright / WebdriverIO / Pytest / Cypress / Selenium / Postman
 - OOP / BDD
 - Windows / Linux / VirtualBox
 ______
