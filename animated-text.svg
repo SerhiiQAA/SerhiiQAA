@@ -1,0 +1,6 @@
+<svg width="400" height="50">
+  <text x="100%" y="50%" font-size="24" fill="black">
+    <animate attributeName="x" from="100%" to="-100%" dur="5s" repeatCount="indefinite"/>
+    🚀 Hello!
+  </text>
+</svg>
