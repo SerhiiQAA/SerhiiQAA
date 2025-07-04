@@ -28,7 +28,7 @@ ___
 - Suggestions for improving your product
 ___
 
-#### I will be glad to cooperate in the field of QA
+## Let's Build Quality Together!
 #### 🔹 My: [Linkidln](https://www.linkedin.com/in/serhiiqaengineer/)
 ________
 #### P.S.:
