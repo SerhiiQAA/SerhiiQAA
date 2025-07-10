@@ -13,6 +13,7 @@ I am a QA Engineer with three years of active experience in the field of testing
 - Windows / Linux / VirtualBox
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiQAA&layout=compact&theme=radical)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SerhiiQAA&show_icons=true&theme=radical)
 
 
