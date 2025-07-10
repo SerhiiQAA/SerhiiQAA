@@ -23,7 +23,7 @@ In software development, testing is an extremely important process that guarante
 
 I like to be involved in creating quality products that improve the world around us. The testing process reminds me of what a coach does when training an athlete. The more attention you pay to this process, the better the end result will be.
 
-#### I offer comprehensive QA support, including:
+#### 💼 I offer comprehensive QA support, including:
 - Reviewing test documentation
 - Requirements analysis
 - Development of test documentation
