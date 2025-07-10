@@ -12,6 +12,7 @@ I am a QA Engineer with three years of active experience in the field of testing
 - OOP / BDD
 - Windows / Linux / VirtualBox
 --- 
+
 In software development, testing is an extremely important process that guarantees the functionality, reliability, and quality of the product. Through systematic testing, problems can be detected and corrected before the software reaches end users, which helps to avoid potential failures and increase user satisfaction. Effective testing ensures that the software meets the specified requirements and works correctly in various scenarios. It also helps to identify bugs, security vulnerabilities, and performance issues, ensuring that the application is reliable and secure. By investing resources in rigorous testing, development teams can create high quality software that can withstand real-world loads and provide a seamless user experience.
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SerhiiQAA&show_icons=true&theme=radical)
