@@ -12,7 +12,7 @@ I am a QA Engineer with three years of active experience in the field of testing
 - OOP / BDD
 - Windows / Linux / VirtualBox
 --- 
-
+___
 In software development, testing is an extremely important process that guarantees the functionality, reliability, and quality of the product. Through systematic testing, problems can be detected and corrected before the software reaches end users, which helps to avoid potential failures and increase user satisfaction. Effective testing ensures that the software meets the specified requirements and works correctly in various scenarios. It also helps to identify bugs, security vulnerabilities, and performance issues, ensuring that the application is reliable and secure. By investing resources in rigorous testing, development teams can create high quality software that can withstand real-world loads and provide a seamless user experience.
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SerhiiQAA&show_icons=true&theme=radical)
@@ -21,7 +21,7 @@ In software development, testing is an extremely important process that guarante
 ---
 
 ![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/image_461d661da4.png)
-
+___
 I like to be involved in creating quality products that improve the world around us. The testing process reminds me of what a coach does when training an athlete. The more attention you pay to this process, the better the end result will be.
 ---
 #### I offer comprehensive QA support, including:
