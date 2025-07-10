@@ -17,7 +17,6 @@ In software development, testing is an extremely important process that guarante
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SerhiiQAA&show_icons=true&theme=radical)
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiQAA&layout=compact&theme=radical)
----
 
 ![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/image_461d661da4.png)
 
