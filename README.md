@@ -29,7 +29,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiQAA&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SerhiiQAA&show_icons=true&theme=radical)
 
 ---
 
