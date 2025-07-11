@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Let%E2%80%99s+Build+Quality+Together!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Let%E2%80%99s+Build+Quality+Together!)](https://git.io/typing-svg)
 #### Hey there 👋
 
 💼 I am a **QA Engineer** with 3+ years of hands-on experience in the testing field.
