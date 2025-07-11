@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+%F0%9F%91%8B+Let%E2%80%99s+Build+Quality+Together!!)](https://git.io/typing-svg)
 
-💼 I am a **QA Engineer** with 3+ years of hands-on experience in the testing field.
+💼  I am a **QA Engineer** with 3+ years of hands-on experience in the testing field.
 
-🚀 I've worked on projects across the full development lifecycle — from gathering customer requirements to releasing the final product.
+🚀  I've worked on projects across the full development lifecycle — from gathering customer requirements to releasing the final product.
 
-📈 Constant learner seeking fresh challenges to bring real value to teams & clients.
+📈  Constant learner seeking fresh challenges to bring real value to teams & clients.
 
 ---
 
@@ -43,12 +43,12 @@ Testing ensures functionality, reliability & security before software hits the r
 
 #### I offer comprehensive QA support:
 
-✅ Reviewing test documentation  
-🧐 Requirements analysis  
-🧾 Test documentation development  
-🤖 Creating automation projects from scratch  
-🔄 Ongoing autotest support  
-🐞 Bug reporting & improvement suggestions
+✅  Reviewing test documentation  
+🧐  Requirements analysis  
+🧾  Test documentation development  
+🤖  Creating automation projects from scratch  
+🔄  Ongoing autotest support  
+🐞  Bug reporting & improvement suggestions
 
 ---
 
