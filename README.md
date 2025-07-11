@@ -41,7 +41,7 @@ Testing ensures functionality, reliability & security before software hits the r
 
 ---
 
-#### 💼 I offer comprehensive QA support:
+#### I offer comprehensive QA support:
 
 ✅ Reviewing test documentation  
 🧐 Requirements analysis  
@@ -52,7 +52,7 @@ Testing ensures functionality, reliability & security before software hits the r
 
 ---
 
-### 👨‍💻 Let’s Build Quality Together!
+### Let’s Build Quality Together!
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/serhiiqaengineer/)  
 📬 Available for freelance opportunities — Let's connect!
