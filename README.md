@@ -65,6 +65,6 @@ Testing ensures functionality, reliability & security before software hits the r
 📬 Available for freelance opportunities — Let's connect!
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&width=435&lines=We+will+be+in+touch+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&width=435&lines=Let's+stay+in+touch+!)](https://git.io/typing-svg)
 
 ![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/SpaceMan1.apng)
