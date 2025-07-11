@@ -3,12 +3,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,ai,cypress,vscode,androidstudio,githubactions,jenkins,gherkin,docker,postman,figma,discord,linux&perline=15)](https://skillicons.dev)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,ai,cypress,vscode,androidstudio,githubactions,jenkins,gherkin,docker,postman,figma,discord,linux" />
-  </a>
-</p>
-
 
 💼  I am a **QA Engineer** with 3+ years of hands-on experience in the testing field.
 
