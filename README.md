@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+%F0%9F%91%8B+Let%E2%80%99s+Build+Quality+Together!!)](https://git.io/typing-svg)
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,ai,cypress,vscode,androidstudio,githubactions,jenkins,gherkin,docker,postman,figma,discord,linux&perline=3)](https://skillicons.dev)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,ai,cypress,vscode,androidstudio,githubactions,jenkins,gherkin,docker,postman,figma,discord,linux" />
