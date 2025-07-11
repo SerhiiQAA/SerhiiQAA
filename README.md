@@ -14,15 +14,16 @@
 
 #### 🛠️ My Skills & Toolset
 
-| Domain       | Skills & Technologies                                      |
-|--------------|------------------------------------------------------------|
-| 🌐 Web / 📱 Mobile | Frontend & Backend Testing, Test Cases, Cross-platform |
-| 🔍 Testing Types  | Smoke / Sanity / Regression / Exploratory / UAT        |
-| 🧪 Languages     | ![JS](https://img.shields.io/badge/-JavaScript-black?logo=javascript) ![TS](https://img.shields.io/badge/-TypeScript-blue?logo=typescript) ![Python](https://img.shields.io/badge/-Python-yellow?logo=python) |
-| ⚙️ Frameworks    | ![Playwright](https://img.shields.io/badge/-Playwright-2e2e2e?logo=playwright) ![Cypress](https://img.shields.io/badge/-Cypress-555555?logo=cypress) ![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-red?logo=webdriverio) ![Selenium](https://img.shields.io/badge/-Selenium-green?logo=selenium) |
-| 🧰 Utilities     | ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman) ![Pytest](https://img.shields.io/badge/-Pytest-black?logo=python) |
-| 🔧 Paradigms     | OOP / BDD / CI/CD Ready |
-| 🖥️ OS            | ![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows) ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux) ![VirtualBox](https://img.shields.io/badge/-VirtualBox-grey?logo=virtualbox) |
+| Domain             | Skills & Technologies                                                                                         |
+|--------------------|---------------------------------------------------------------------------------------------------------------|
+| 🌐 Web / 📱 Mobile   | Frontend & Backend Testing, Test Cases, Cross-platform                                                       |
+| 🔍 Testing Types     | Smoke / Sanity / Regression / Exploratory / UAT                                                               |
+| 🧪 Languages         | ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript) ![Python](https://img.shields.io/badge/-Python-yellow?logo=python) |
+| ⚙️ Frameworks        | ![Playwright](https://img.shields.io/badge/-Playwright-2e2e2e?logo=playwright) ![Cypress](https://img.shields.io/badge/-Cypress-555555?logo=cypress) ![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-red?logo=webdriverio) ![Selenium](https://img.shields.io/badge/-Selenium-green?logo=selenium) ![Pytest](https://img.shields.io/badge/-Pytest-black?logo=python) |
+| 🧰 Utilities         | ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman) ![Newman](https://img.shields.io/badge/-Newman-lightgrey?logo=newman) ![DevTools](https://img.shields.io/badge/-DevTools-informational?logo=googlechrome) ![Appium](https://img.shields.io/badge/-Appium-753fc9?logo=appium) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?logo=androidstudio) |
+| 🔧 Paradigms         | OOP / BDD / CI/CD Ready                                                                                       |
+| 🖥️ OS                | ![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows) ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux) ![VirtualBox](https://img.shields.io/badge/-VirtualBox-grey?logo=virtualbox) |
+
 
 ---
 
