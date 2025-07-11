@@ -58,7 +58,6 @@ Testing ensures functionality, reliability & security before software hits the r
 📬 Available for freelance opportunities — Let's connect!
 
 ---
-
-#### P.S.: Thanks for scrolling 🙌
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+for+scrolling+%F0%9F%99%8C)](https://git.io/typing-svg)
 
 ![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/SpaceMan1.apng)
