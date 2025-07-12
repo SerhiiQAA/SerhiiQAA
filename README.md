@@ -1,3 +1,34 @@
+### 💻 Мої технології та інструменти автоматизації
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,typescript,selenium,cypress,junit,testng,cucumber,postman,maven,gradle,docker,kubernetes,jenkins,gitlab,githubactions,azuredevops,aws,gcp,jira,confluence,grafana,prometheus,splunk,elastic,kibana,influxdb,mongodb,mysql,postgresql,redis,kafka,rabbitmq,vscode,idea" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-2F3F4C?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright Badge"/>
+  <img src="https://img.shields.io/badge/WebdriverIO-B9DF20?style=for-the-badge&logo=webdriverio&logoColor=white" alt="WebdriverIO Badge"/>
+  <img src="https://img.shields.io/badge/Appium-434857?style=for-the-badge&logo=appium&logoColor=white" alt="Appium Badge"/>
+  <img src="https://img.shields.io/badge/TestNG-FF0000?style=for-the-badge&logoColor=white" alt="TestNG Badge"/>
+  <img src="https://img.shields.io/badge/Allure%20Report-8D59C2?style=for-the-badge&logoColor=white" alt="Allure Report Badge"/>
+  <img src="https://img.shields.io/badge/TestRail-00B298?style=for-the-badge&logoColor=white" alt="TestRail Badge"/>
+</p>
+
+---
+
+### 🚀 Мої проекти з автоматизації:
+
+* [Проект 1: Автоматизація UI за допомогою Playwright](https://github.com/your-username/your-playwright-project)
+* [Проект 2: API-тестування з RestAssured](https://github.com/your-username/your-api-project)
+* [Проект 3: Мобільна автоматизація з Appium](https://github.com/your-username/your-mobile-project)
+
+
+
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+%F0%9F%91%8B+Let%E2%80%99s+Build+Quality+Together!!)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,ai,cypress,selenium,git,vscode,androidstudio,githubactions,mysql,jenkins,gherkin,docker,npm,postman,figma,discord,linux&perline=19)](https://skillicons.dev)
