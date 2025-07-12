@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+%F0%9F%91%8B+Let%E2%80%99s+Build+Quality+Together!!)](https://git.io/typing-svg)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,ai,cypress,git,vscode,androidstudio,githubactions,mysql,jenkins,gherkin,docker,npm,postman,figma,discord,linux&perline=17)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,ai,cypress,selenium,git,vscode,androidstudio,githubactions,mysql,jenkins,gherkin,docker,npm,postman,figma,discord,linux&perline=19)](https://skillicons.dev)
 
 
 💼  I am a **QA Engineer** with 3+ years of hands-on experience in the testing field.
