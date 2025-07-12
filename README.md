@@ -10,6 +10,8 @@
 
 📈  Constant learner seeking fresh challenges to bring real value to teams & clients.
 
+📱  My hobby is developing mobile applications for Android.
+
 ---
 
 ![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/TestPlay.apng)
