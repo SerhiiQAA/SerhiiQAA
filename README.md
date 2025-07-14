@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge"/>
   <img src="https://img.shields.io/badge/Newman-F0542D?style=for-the-badge&logo=postman&logoColor=white" alt="Newman Badge"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio Badge"/>
+  <img src="https://img.shields.io/badge/BrowserStack-FF9933?style=for-the-badge&logo=browserstack&logoColor=white" alt="BrowserStack Badge"/>
   <img src="https://img.shields.io/badge/Appium-434857?style=for-the-badge&logo=appium&logoColor=white" alt="Appium Badge"/>
   <img src="https://img.shields.io/badge/Detox-009688?style=for-the-badge&logoColor=white" alt="Detox Badge"/>
   <img src="https://img.shields.io/badge/Maestro-4D93C3?style=for-the-badge&logoColor=white" alt="Maestro Badge"/>
-  <img src="https://img.shields.io/badge/BrowserStack-FF9933?style=for-the-badge&logo=browserstack&logoColor=white" alt="BrowserStack Badge"/>
 </p>
 
 ---
