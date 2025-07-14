@@ -65,12 +65,12 @@ Testing ensures functionality, reliability & security before software hits the r
 
 #### I offer comprehensive QA support:
 
-✅  Reviewing test documentation  
-🧐  Requirements analysis  
-🧾  Test documentation development  
-🤖  Creating automation projects from scratch  
-🔄  Ongoing autotest support  
-🐞  Bug reporting & improvement suggestions
+🔹  Reviewing test documentation  
+🔹  Requirements analysis  
+🔹  Test documentation development  
+🔹  Creating automation projects from scratch  
+🔹  Ongoing autotest support  
+🔹  Bug reporting & improvement suggestions
 
 ---
 
