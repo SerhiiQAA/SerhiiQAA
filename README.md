@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&color=00CC00&size=20&pause=300&width=480&lines=🔍+AUTOMATING+TESTS+🚀+Hacking+the+System...)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&color=00FF00&size=23&pause=600&width=500&lines=💻+[YourName]+🧪+Master+of+AI+Tests+🔐)](https://git.io/typing-svg)
+
 <p align="left">
   <img src="https://img.shields.io/badge/Playwright-2F3F4C?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright Badge"/>
   <img src="https://img.shields.io/badge/WebdriverIO-B9DF20?style=for-the-badge&logo=webdriverio&logoColor=white" alt="WebdriverIO Badge"/>
