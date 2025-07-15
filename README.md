@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+%F0%9F%91%8B+Let%E2%80%99s+Build+Quality+Together!!)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&color=FFA500&size=23&pause=600&width=480&lines=👨‍💻+Your+Name+✨+Coding+AI!)](https://git.io/typing-svg)
+
 <p align="left">
   <img src="https://img.shields.io/badge/Playwright-2F3F4C?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright Badge"/>
   <img src="https://img.shields.io/badge/WebdriverIO-B9DF20?style=for-the-badge&logo=webdriverio&logoColor=white" alt="WebdriverIO Badge"/>
