@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+%F0%9F%91%8B+Let%E2%80%99s+Build+Quality+Together!!)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=00CED1&size=20&pause=700&width=700&lines=Hey+👋+Let's+Build+Quality+Together!)](https://git.io/typing-svg)
 
 <p align="left">
@@ -81,8 +79,6 @@ Testing ensures functionality, reliability & security before software hits the r
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&width=435&lines=Let's+stay+in+touch!)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=00CED1&size=18&pause=700&width=800&lines=Keep+the+Vibe+Alive!+🌟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=00CED1&size=18&pause=700&width=800&lines=Keep+the+Vibe+Alive!)](https://git.io/typing-svg)
 
 ![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/SpaceMan1.apng)
