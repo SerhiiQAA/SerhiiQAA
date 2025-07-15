@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+%F0%9F%91%8B+Let%E2%80%99s+Build+Quality+Together!!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&color=00FF00&size=22&pause=500&width=500&lines=💾+AUTOMATION+TESTER+🧪+Decoding+the+Matrix...)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&color=39FF14&size=24&pause=400&width=520&lines=🌐+TESTING+THE+CODE+🔧+Matrix+Overlord+💾)](https://git.io/typing-svg)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Playwright-2F3F4C?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright Badge"/>
