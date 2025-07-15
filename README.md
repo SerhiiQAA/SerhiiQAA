@@ -1,5 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+%F0%9F%91%8B+Let%E2%80%99s+Build+Quality+Together!!)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&color=FF69B4&size=24&pause=600&width=500&lines=🌴+AI+Test+Explorer+🌈+Crafting+Magic!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&color=FFA500&size=23&pause=500&width=480&lines=🌸+Automating+with+Love+🎨+AI+Dreamer!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bangers&color=FF4500&size=25&pause=400&width=520&lines=🎉+TEST+BOSS+🔥+Ruling+the+Code!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=00CED1&size=20&pause=700&width=500&lines=🎮+AI+Test+Quest+🌟+Level+Up!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&color=FF69B4&size=23&pause=500&width=480&lines=🌸+Automating+with+Flair!+🎉+AI+Magic+On!)](https://git.io/typing-svg)
+
+
 <p align="left">
   <img src="https://img.shields.io/badge/Playwright-2F3F4C?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright Badge"/>
   <img src="https://img.shields.io/badge/WebdriverIO-B9DF20?style=for-the-badge&logo=webdriverio&logoColor=white" alt="WebdriverIO Badge"/>
