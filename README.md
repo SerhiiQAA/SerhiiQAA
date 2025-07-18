@@ -63,6 +63,10 @@ Testing ensures functionality, reliability & security before software hits the r
 
 ---
 
+[![CodeTrace](https://img.shields.io/badge/CodeTrace-Profile-blue?style=for-the-badge&logo=github)](https://codetrace.com/users/SerhiiQAA)
+
+---
+
 #### 💼 I offer comprehensive QA support:
 
 🔹  Reviewing test documentation  
