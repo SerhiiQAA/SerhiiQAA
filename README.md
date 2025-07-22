@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Detox-009688?style=for-the-badge&logoColor=white" alt="Detox Badge"/>
   <img src="https://img.shields.io/badge/Maestro-4D93C3?style=for-the-badge&logoColor=white" alt="Maestro Badge"/>
 </p>
+
 ---
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,ai,cypress,selenium,git,vscode,androidstudio,githubactions,mysql,jenkins,gherkin,docker,npm,postman,figma,discord,linux&perline=19)](https://skillicons.dev)
 
