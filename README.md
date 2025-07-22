@@ -84,6 +84,14 @@ Testing ensures functionality, reliability & security before software hits the r
 
 ---
 
+## My Hobby: Android App Development 📱
+
+I enjoy exploring mobile technologies and building Android applications in my free time. Here are some of the apps I've created:
+
+- [TicTacToeGame](https://github.com/SerhiiQA/RecipeSwipe) – A simple, fun game to play with your friends.
+- [EngWordsGame](https://github.com/SerhiiQAA/EngWordsGame) – Dive into this engaging Android game to make learning English vocabulary a captivating adventure.
+- [MyFreeSnakeGame](https://github.com/SerhiiQA/TaskFlow) – A classic Snake game for Android, reimagined with modern controls and a clean design.
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=00CED1&size=18&pause=700&width=800&lines=Keep+the+Vibe+Alive!)](https://git.io/typing-svg)
 
 ![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/SpaceMan1.apng)
