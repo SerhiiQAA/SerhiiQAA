@@ -58,7 +58,6 @@ Testing ensures functionality, reliability & security before software hits the r
 
 ![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/image_461d661da4.png)
 
----
 ### 🔗 My CodeTrace Profile  
 [View analytics on CodeTrace](https://codetrace.com/users/SerhiiQAA)
 
