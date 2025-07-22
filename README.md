@@ -66,7 +66,7 @@ Testing ensures functionality, reliability & security before software hits the r
 
 ---
 
-#### 💼 I offer comprehensive QA support:
+#### 👔 I offer comprehensive QA support:
 
 🔹  Reviewing test documentation  
 🔹  Requirements analysis  
