@@ -18,13 +18,13 @@
 
 ---
 
-💼  I am a **QA Engineer** with 3+ years of hands-on experience in the testing field.
+-  I am a **QA Engineer** with 3+ years of hands-on experience in the testing field.
 
-🚀  I've worked on projects across the full development lifecycle — from gathering customer requirements to releasing the final product.
+-  I've worked on projects across the full development lifecycle — from gathering customer requirements to releasing the final product.
 
-📈  Constant learner seeking fresh challenges to bring real value to teams & clients.
+-  Constant learner seeking fresh challenges to bring real value to teams & clients.
 
-📱  My hobby is developing mobile applications for Android.
+-  My hobby is developing mobile applications for Android.
 
 ---
 
