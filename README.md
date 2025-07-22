@@ -76,7 +76,7 @@ Testing ensures functionality, reliability & security before software hits the r
 
 ---
 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/serhiiqaengineer/)  
+## 🔗 [LinkedIn Profile](https://www.linkedin.com/in/serhiiqaengineer/)  
 📬 Available for freelance opportunities
 
 ---
