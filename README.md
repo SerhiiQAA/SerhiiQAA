@@ -52,7 +52,7 @@
 
 ---
 
-#### 🧠 Why Testing Matters
+#### 📝 Why Testing Matters
 
 Testing ensures functionality, reliability & security before software hits the real world. It validates requirements, detects bugs early, and safeguards user experience — like a coach preparing an athlete 🏋️‍♂️
 
