@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=00CED1&size=20&pause=700&width=700&lines=Hello+👋+Let's+Build+Quality+Together!)](https://git.io/typing-svg)
 ---
-
-#### 🛠️ My Skills:
-
----
 <p align="left">
   <img src="https://img.shields.io/badge/Playwright-2F3F4C?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright Badge"/>
   <img src="https://img.shields.io/badge/WebdriverIO-B9DF20?style=for-the-badge&logo=webdriverio&logoColor=white" alt="WebdriverIO Badge"/>
