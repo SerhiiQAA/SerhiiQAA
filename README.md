@@ -34,7 +34,7 @@
 
 ---
 
-#### 🛠️ My Skills & Toolset
+### 🛠️ My Skills & Toolset
 
 | Domain             | Skills & Technologies                                                                                         |
 |--------------------|---------------------------------------------------------------------------------------------------------------|
@@ -54,21 +54,21 @@
 
 ---
 
-#### 📝 Why Testing Matters
+### 📝 Why Testing Matters
 
 Testing ensures functionality, reliability & security before software hits the real world. It validates requirements, detects bugs early, and safeguards user experience — like a coach preparing an athlete 🏋️‍♂️
 
 ![](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/image_461d661da4.png)
 
 ---
-#### 🔗 My CodeTrace Profile  
+### 🔗 My CodeTrace Profile  
 [View analytics on CodeTrace](https://codetrace.com/users/SerhiiQAA)
 
 [![CodeTrace](https://img.shields.io/badge/CodeTrace-Profile-blue?style=for-the-badge&logo=github)](https://codetrace.com/users/SerhiiQAA)
 
 ---
 
-#### 👔 I offer comprehensive QA support:
+### 👔 I offer comprehensive QA support:
 
 🔹  Reviewing test documentation  
 🔹  Requirements analysis  
@@ -84,7 +84,7 @@ Testing ensures functionality, reliability & security before software hits the r
 
 ---
 
-## My Hobby: Android App Development 📱
+### 📱 My Hobby: Android App Development 
 
 I enjoy exploring mobile technologies and building Android applications in my free time. Here are some of the apps I've created:
 
