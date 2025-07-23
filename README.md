@@ -60,7 +60,7 @@ I’m constantly experimenting with tools that push the boundaries of quality as
 - [WebdriverIO](https://github.com/SerhiiQAA/WebdriverIO-TypeScript-OOP-project-Saucedemo-UI) – A powerful automation framework for both web and mobile apps, known for its plugin ecosystem and flexibility.
 - [Pytest](https://github.com/SerhiiQAA/Automationexercise-Playwright-Pytest) – My go-to Python testing tool, with expressive syntax, parametrization, and rich fixture support.
 - [Selenium](https://github.com/SerhiiQAA/Selenium-Java-project-GitHub-LoginRegistration-API-UI-OOP) – The classic browser automation library that laid the foundation for modern testing frameworks.
-- [My API](https://github.com/SerhiiQAA/My-API-with-FastAPI) – Creating an API using FastAPI..
+- [My API](https://github.com/SerhiiQAA/My-API-with-FastAPI) – Creating an API using FastAPI.
 - [API Postman Newman](https://github.com/SerhiiQAA/Postman-newman-ghActions) – A suite of tools for API testing, mocking, and monitoring — essential for backend validation and contract testing.
 - [Mobile Appium](https://github.com/SerhiiQAA/Browserstack_WebdriverIO_JS_MobileApp) – A cross-platform mobile automation framework that lets you test native, hybrid, and mobile web apps with ease.
 - [AI](https://github.com/SerhiiQAA/DeepEval-Python-Project) – An autonomous AI agent that chains tasks together using GPT-4 and memory, opening new horizons for intelligent automation.
