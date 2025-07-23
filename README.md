@@ -52,6 +52,21 @@
 
 ---
 
+### 🧪 Examples of my open projects:
+I’m constantly experimenting with tools that push the boundaries of quality assurance and automation. These repositories have shaped my workflow and inspired many of my own projects:
+- [Cypress](https://github.com/SerhiiQAA/Rentzila-Cypress-Project) – A fast, developer-friendly tool for end-to-end testing with real-time feedback and intuitive debugging.
+- [Cucumber](https://github.com/SerhiiQAA/Telnyx-Cypress-Cucumber) – A behavior-driven development (BDD) tool that lets you write automated acceptance tests in plain language, improving collaboration between QA, developers, and product teams.
+- [Playwright](https://github.com/SerhiiQAA/Pl-project-Buggy-Rating) – A sleek, modern framework for cross-browser testing with built-in tracing, API mocking, and mobile emulation.
+- [WebdriverIO](https://github.com/SerhiiQAA/WebdriverIO-TypeScript-OOP-project-Saucedemo-UI) – A powerful automation framework for both web and mobile apps, known for its plugin ecosystem and flexibility.
+- [Pytest](https://github.com/SerhiiQAA/Automationexercise-Playwright-Pytest) – My go-to Python testing tool, with expressive syntax, parametrization, and rich fixture support.
+- [Selenium](https://github.com/SerhiiQAA/Selenium-Java-project-GitHub-LoginRegistration-API-UI-OOP) – The classic browser automation library that laid the foundation for modern testing frameworks.
+- [My API](https://github.com/SerhiiQAA/My-API-with-FastAPI) – Creating an API using FastAPI..
+- [API Postman Newman](https://github.com/SerhiiQAA/Postman-newman-ghActions) – A suite of tools for API testing, mocking, and monitoring — essential for backend validation and contract testing.
+- [Mobile Appium](https://github.com/SerhiiQAA/Browserstack_WebdriverIO_JS_MobileApp) – A cross-platform mobile automation framework that lets you test native, hybrid, and mobile web apps with ease.
+- [AI](https://github.com/SerhiiQAA/DeepEval-Python-Project) – An autonomous AI agent that chains tasks together using GPT-4 and memory, opening new horizons for intelligent automation.
+
+---
+
 ### 📝 Why Testing Matters
 
 Testing ensures functionality, reliability & security before software hits the real world. It validates requirements, detects bugs early, and safeguards user experience — like a coach preparing an athlete 🏋️‍♂️
