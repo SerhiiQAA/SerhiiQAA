@@ -52,7 +52,7 @@
 
 ---
 
-### 🧪 Examples of my open projects:
+### 🧪 Examples of my own open projects:
 I’m constantly experimenting with tools that push the boundaries of quality assurance and automation. These repositories have shaped my workflow and inspired many of my own projects:
 - [Cypress](https://github.com/SerhiiQAA/Rentzila-Cypress-Project) – A fast, developer-friendly tool for end-to-end testing with real-time feedback and intuitive debugging.
 - [Cucumber](https://github.com/SerhiiQAA/Telnyx-Cypress-Cucumber) – A behavior-driven development (BDD) tool that lets you write automated acceptance tests in plain language, improving collaboration between QA, developers, and product teams.
