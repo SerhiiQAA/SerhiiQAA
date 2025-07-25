@@ -64,7 +64,7 @@ I’m constantly experimenting with tools that push the boundaries of quality as
 - [API Postman Newman](https://github.com/SerhiiQAA/Postman-newman-ghActions) – A suite of tools for API testing, mocking, and monitoring — essential for backend validation and contract testing.
 - [Mobile Appium](https://github.com/SerhiiQAA/Browserstack_WebdriverIO_JS_MobileApp) – A cross-platform mobile automation framework that lets you test native, hybrid, and mobile web apps with ease.
 - [AI](https://github.com/SerhiiQAA/DeepEval-Python-Project) – An autonomous AI agent that chains tasks together using GPT-4 and memory, opening new horizons for intelligent automation.
-
+- [Data Analytics](https://github.com/SerhiiQAA/PythonPandasAnalitic) – Data analysis using Python libraries.
 ---
 
 ### 📝 Why Testing Matters
