@@ -1,4 +1,4 @@
-# Serhii | Senior QA Automation Engineer 🛠️
+# Serhii | Senior Automation Engineer 🛠️
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Quality+Through+Code;Full-Stack+Automation;E2E+Infrastructure+Expert" alt="Typing SVG" /></a>
@@ -64,5 +64,5 @@
 
 <p align="center">
   <b>Keep the Vibe Alive! 🚀</b><br />
-  <img src="https://github.com/SerhiiQAA/SerhiiQAA/blob/main/SpaceMan1.apng" width="500" />
+  <img src="https://github.com/SerhiiQAA/SerhiiQAA/blob/main/SpaceMan1.apng" width="100%" />
 </p>
