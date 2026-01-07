@@ -1,8 +1,8 @@
 # Serhii | QA Automation Engineer 🛠️
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Quality+Through+Code;Full-Stack+Automation;E2E+Infrastructure+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=false&vCenter=true&width=600&lines=Quality+Through+Code;Full-Stack+Automation;E2E+Infrastructure+Expert;CI/CD+Quality+Gates;API+Reliability+Testing;Mobile+Test+Automation;Scalable+Test+Architectures;Clean+Code+Practitioner" alt="Typing SVG" />
   </a>
 </p>
 
