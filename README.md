@@ -21,13 +21,12 @@
 #### **Core Automation Frameworks**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=playwright" height="50" alt="Playwright" />
-  <img src="https://skillicons.dev/icons?i=cypress" height="50" alt="Cypress" />
-  <img src="https://skillicons.dev/icons?i=webdriverio" height="50" alt="WebdriverIO" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="50" alt="Selenium" />
-  <img src="https://skillicons.dev/icons?i=appium" height="50" alt="Appium" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
-</p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/WebdriverIO-B9DF20?style=for-the-badge&logo=webdriverio&logoColor=white" alt="WebdriverIO"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/>
+</p> 
 
 #### **Ecosystem & Languages**
 
