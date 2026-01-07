@@ -54,37 +54,21 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiQAA&layout=compact&theme=transparent&hide_border=true&title_color=60A5FA&icon_color=60A5FA" alt="Top Languages" />
-</p>
+### 🔗 [LinkedIn Profile](https://www.linkedin.com/in/serhiiqaengineer/)  
+📬 Available for freelance opportunities
 
 ---
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Let's+Connect+📫" alt="Typing SVG" />
-  </a>
-</p>
+### 📱 My Hobby: Android App Development 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/serhiiqaengineer/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://codetrace.com/users/SerhiiQAA">
-    <img src="https://img.shields.io/badge/CodeTrace-Profile-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="CodeTrace" />
-  </a>
-</p>
+I enjoy exploring mobile technologies and building Android applications in my free time. Here are some of the apps I've created:
 
-<br />
+- [TicTacToeGame](https://github.com/SerhiiQAA/MyTicTacToeGame) – A simple, fun game to play with your friends.
+- [EngWordsGame](https://github.com/SerhiiQAA/EngWordsGame) – Dive into this engaging Android game to make learning English vocabulary a captivating adventure.
+- [MyFreeSnakeGame](https://github.com/SerhiiQAA/MyFreeSnakeGame) – A classic Snake game for Android, reimagined with modern controls and a clean design.
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Keep+the+Vibe+Alive!+🚀" alt="Typing SVG" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://github.com/SerhiiQAA/SerhiiQAA/blob/main/SpaceMan1.apng" width="100%" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=00CED1&size=18&pause=700&width=800&lines=Keep+the+Vibe+Alive!)](https://git.io/typing-svg)
+
+![Image alt](https://github.com/SerhiiQAA/SerhiiQAA/blob/main/SpaceMan1.apng)
