@@ -62,7 +62,11 @@
 
 ---
 
-### 📫 Let's Connect
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Let's+Connect+📫" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/serhiiqaengineer/">
