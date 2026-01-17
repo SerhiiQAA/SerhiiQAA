@@ -50,7 +50,6 @@
 - ✅ **QA Infrastructure:** Building CI/CD pipelines with automated Quality Gates.
 - ✅ **Consultancy:** Technical audit of test documentation and automation strategies.
 - ✅ **Architecture:** Clean Code, OOP, and BDD patterns implementation.
-- ✅ **Mobile Dev:** Native Android application development (Java/Kotlin).
 
 ---
 
@@ -59,7 +58,7 @@
 
 ---
 
-### 📱 My Hobby: Android App Development 
+### 📱 My Hobby: Web site, API and Android App Development 
 
 I enjoy exploring mobile technologies and building Android applications in my free time. Here are some of the apps I've created:
 
