@@ -62,7 +62,8 @@
 
 I enjoy exploring mobile technologies and building Android applications in my free time. Here are some of the apps I've created:
 
-- [**UtilityPay**](https://python-django-services-project.vercel.app/) – A full-stack web application for managing utility bills in Kharkiv. Built with **Python/Django**, featuring multi-language support (UA/EN)
+- [**Django Social Project**](https://django-social-project.vercel.app/) – A full-stack web application for monitoring regional data in Ukraine. Built with **Python/Django**, featuring real-time weather tracking, **automated emergency alerts**, financial data (Crypto/Currency), and news fetching with multi-region support.
+- [**UtilityPay**](https://python-django-services-project.vercel.app/) – A full-stack web application for managing utility bills in Kharkiv. Built with **Python/Django**, featuring multi-language support (UA/EN).
 - [TicTacToeGame](https://github.com/SerhiiQAA/MyTicTacToeGame) – A simple, fun game to play with your friends.
 - [EngWordsGame](https://github.com/SerhiiQAA/EngWordsGame) – Dive into this engaging Android game to make learning English vocabulary a captivating adventure.
 - [MyFreeSnakeGame](https://github.com/SerhiiQAA/MyFreeSnakeGame) – A classic Snake game for Android, reimagined with modern controls and a clean design.
