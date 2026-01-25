@@ -54,9 +54,9 @@ I enjoy exploring mobile technologies and building Android applications in my fr
 - [**Django Social Project**](https://django-social-project.vercel.app/) – A full-stack web application for monitoring regional data in Ukraine. Built with **Python/Django**, featuring real-time weather tracking, **automated emergency alerts**, financial data (Crypto/Currency), and news fetching with multi-region support.
 - [**UtilityPay**](https://python-django-services-project.vercel.app/) – A full-stack web application for managing utility bills in Kharkiv. Built with **Python/Django**, featuring multi-language support (UA/EN).
 - [**User Management System**](https://serhiiqaa.github.io/fullstack-app/) – A modern fullstack application for user administration. Built with **React** and **Express**, using **Prisma ORM** with **PostgreSQL** to implement a robust CRUD architecture and full type safety.
-- [TicTacToeGame](https://github.com/SerhiiQAA/MyTicTacToeGame) – A simple, fun game to play with your friends.
-- [EngWordsGame](https://github.com/SerhiiQAA/EngWordsGame) – Dive into this engaging Android game to make learning English vocabulary a captivating adventure.
-- [MyFreeSnakeGame](https://github.com/SerhiiQAA/MyFreeSnakeGame) – A classic Snake game for Android, reimagined with modern controls and a clean design.
+- [**TicTacToeGame**](https://github.com/SerhiiQAA/MyTicTacToeGame) – A simple, fun game to play with your friends.
+- [**EngWordsGame**](https://github.com/SerhiiQAA/EngWordsGame) – Dive into this engaging Android game to make learning English vocabulary a captivating adventure.
+- [**MyFreeSnakeGame**](https://github.com/SerhiiQAA/MyFreeSnakeGame) – A classic Snake game for Android, reimagined with modern controls and a clean design.
 
 ---
 
