@@ -47,9 +47,7 @@
 
 ---
 
-### 📱 My Hobby: Web site, API and Android App Development 
-
-I enjoy exploring mobile technologies and building Android applications in my free time. Here are some of the apps I've created:
+### 📱 My Hobby: Development
 
 - [**Django Social Project**](https://django-social-project.vercel.app/) – A full-stack web application for monitoring regional data in Ukraine. Built with **Python/Django**, featuring real-time weather tracking, **automated emergency alerts**, financial data (Crypto/Currency), and news fetching with multi-region support.
 - [**UtilityPay**](https://python-django-services-project.vercel.app/) – A full-stack web application for managing utility bills in Kharkiv. Built with **Python/Django**, featuring multi-language support (UA/EN).
