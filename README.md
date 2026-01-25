@@ -34,17 +34,6 @@
 
 ---
 
-### 🧪 Featured Automation Projects
-
-| Technology | Project Highlights | Repository |
-| :--- | :--- | :--- |
-| **Playwright** | Advanced E2E framework with Tracing, API mocking, and CI integration | [📂 Explore](https://github.com/SerhiiQAA/Pl-project-Buggy-Rating) |
-| **Cypress** | BDD-driven (Cucumber) architecture for complex UI flows | [📂 Explore](https://github.com/SerhiiQAA/Telnyx-Cypress-Cucumber) |
-| **Python** | FastAPI service & AI Agent validation using DeepEval | [📂 Explore](https://github.com/SerhiiQAA/My-API-with-FastAPI) |
-| **Mobile** | Cross-platform testing via Browserstack & WebdriverIO | [📂 Explore](https://github.com/SerhiiQAA/Browserstack_WebdriverIO_JS_MobileApp) |
-
----
-
 ### 👔 Core Expertise
 
 - ✅ **QA Infrastructure:** Building CI/CD pipelines with automated Quality Gates.
