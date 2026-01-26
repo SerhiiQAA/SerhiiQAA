@@ -48,7 +48,7 @@
 ---
 
 ### 📱 My Hobby: Development
-
+- [**TechnoTop E-commerce Store**](http://techno-top.free.nf/) – A professional full-stack online shop built on **WordPress/WooCommerce**. Features an automated product management system, a customized Astra theme, and a fully functional shopping cart and checkout process. Integrated with cloud hosting via **InfinityFree** and optimized for seamless user experience.
 - [**Django Social Project**](https://django-social-project.vercel.app/) – A full-stack web application for monitoring regional data in Ukraine. Built with **Python/Django**, featuring real-time weather tracking, **automated emergency alerts**, financial data (Crypto/Currency), and news fetching with multi-region support.
 - [**UtilityPay**](https://python-django-services-project.vercel.app/) – A full-stack web application for managing utility bills in Kharkiv. Built with **Python/Django**, featuring multi-language support (UA/EN).
 - [**User Management System**](https://serhiiqaa.github.io/fullstack-app/) – A modern fullstack application for user administration. Built with **React** and **Express**, using **Prisma ORM** with **PostgreSQL** to implement a robust CRUD architecture and full type safety.
